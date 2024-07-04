@@ -1,0 +1,11 @@
+tesseract:
+  path: "/opt/homebrew/bin/tesseract"
+
+camera1:
+  url: 0
+
+camera2:
+  url: 0
+
+camera3:
+  url: 0
