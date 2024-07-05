@@ -1,0 +1,11 @@
+tesseract:
+  path: 'd:\clientes\reok\env\lib\site-packages'
+
+camera1:
+  url: 0
+
+camera2:
+  url: 0
+
+camera3:
+  url: 0
